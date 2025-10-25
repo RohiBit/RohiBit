@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://github.com/Rohibit">
-    <img src="https://raw.githubusercontent.com/Rohibit/Rohibit/main/assets/rohibit_logo.png" alt="Rohibit Logo" width="180"/>
+  <a href="https://github.com/RohiBit">
+    <img src="https://github.com/RohiBit/RohiBit/blob/main/Rohibit.jpeg?raw=true" alt="RohiBit Logo" width="180"/>
   </a>
-  <h1>Hi there, I'm Rohibit 👋</h1>
+  <h1>Hi there, I'm RohiBit 👋</h1>
   <p>Final Year AIML Student | Innovator in AI/ML, Full-Stack, IoT & Unreal Engine</p>
 </div>
 
@@ -62,12 +62,6 @@ Here are some of the technologies I work with, presented with icons for a quick 
   <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unrealengine" width="40" height="40"/> </a>
 </p>
 
-**Cloud & DevOps (Example - add what you know):**
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-</p>
-
 ---
 
 ### Connect with Me
@@ -81,11 +75,11 @@ I'm always open to discussing new ideas, collaborating on projects, or sharing i
 ### My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohibit&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Rohibit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RohiBit&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="RohiBit's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohibit&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohiBit&theme=dark" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohibit&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohiBit&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
