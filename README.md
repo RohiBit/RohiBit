@@ -3,7 +3,7 @@
     <img src="https://github.com/RohiBit/RohiBit/blob/main/Rohibit.jpeg?raw=true" alt="RohiBit Logo" width="180"/>
   </a>
   <h1>Hi there, I'm Rohith 👋</h1>
-  <p>Final Year AIML Student | Innovator in AI/ML, Full-Stack, IoT & Unreal Engine</p>
+  <p>Innovator in AI/ML, Full-Stack, IoT & Unreal Engine</p>
 </div>
 
 ---
