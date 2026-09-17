@@ -72,8 +72,8 @@ Here are some of the technologies I work with, presented with icons for a quick 
 
 I'm always open to discussing new ideas, collaborating on projects, or sharing insights. Feel free to connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-k-0b467b362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__.rohith.__007?igsh=MWZob2pmMGlzeWs1aw==)
+[![LinkedIn](www.linkedin.com/in/rohith-krishnan-0b467b362)
+[![Instagram](https://www.instagram.com/_rozh_07/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohith.robotic@gmail.com)
 
 ---
