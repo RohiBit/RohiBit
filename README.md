@@ -76,19 +76,6 @@ I'm always open to discussing new ideas, collaborating on projects, or sharing i
 [![Instagram](https://www.instagram.com/_rozh_07/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohith.robotic@gmail.com)
 
----
-
-### My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohiBit&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_bust=17012024" alt="RohiBit's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohiBit&theme=dark&cache_bust=17012024" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohiBit&layout=compact&theme=dark&cache_bust=17012024" alt="Top Languages" />
-</p>
-
----
 
 <p align="center">
   🌟 Thanks for stopping by! 🌟
