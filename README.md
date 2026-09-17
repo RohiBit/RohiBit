@@ -9,7 +9,7 @@
 
 ### About Me
 
-As a final year Artificial Intelligence and Machine Learning student at **Sona College of Technology, Salem**, I'm deeply passionate about cutting-edge technology and its applications. My journey has led me to excel across various domains, from crafting intelligent systems to building robust web applications and immersive experiences. I thrive on bringing complex ideas to life and am constantly pushing the boundaries of what's possible.
+As a BE Artificial Intelligence and Machine Learning graduate from **Sona College of Technology, Salem**, I'm deeply passionate about cutting-edge technology and its applications. My journey has led me to excel across various domains, from crafting intelligent systems to building robust web applications and immersive experiences. I thrive on bringing complex ideas to life and am constantly pushing the boundaries of what's possible.
 
 Beyond coding, I genuinely enjoy **tutoring and sharing knowledge**, helping others understand intricate concepts in AI/ML and programming. My current focus is on building impactful projects and preparing for advanced studies, as I aim to pursue my **Masters** to dive even deeper into the world of AI.
 
